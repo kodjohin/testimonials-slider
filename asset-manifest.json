@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.47eddc7c.chunk.css",
-    "main.js": "/static/js/main.775b0781.chunk.js",
-    "main.js.map": "/static/js/main.775b0781.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b3b525fb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b3b525fb.js.map",
-    "static/js/2.47b207d0.chunk.js": "/static/js/2.47b207d0.chunk.js",
-    "static/js/2.47b207d0.chunk.js.map": "/static/js/2.47b207d0.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.47eddc7c.chunk.css.map": "/static/css/main.47eddc7c.chunk.css.map",
-    "static/js/2.47b207d0.chunk.js.LICENSE.txt": "/static/js/2.47b207d0.chunk.js.LICENSE.txt",
-    "static/media/icon-next.0aa189db.svg": "/static/media/icon-next.0aa189db.svg",
-    "static/media/icon-prev.f72bba8e.svg": "/static/media/icon-prev.f72bba8e.svg",
-    "static/media/image-john.5253a557.jpg": "/static/media/image-john.5253a557.jpg",
-    "static/media/image-tanya.f54c0657.jpg": "/static/media/image-tanya.f54c0657.jpg",
-    "static/media/App.css": "/static/media/pattern-quotes.219bd182.svg"
+    "main.css": "/testimonials-slider/static/css/main.1f0fdfa0.chunk.css",
+    "main.js": "/testimonials-slider/static/js/main.775b0781.chunk.js",
+    "main.js.map": "/testimonials-slider/static/js/main.775b0781.chunk.js.map",
+    "runtime-main.js": "/testimonials-slider/static/js/runtime-main.af307542.js",
+    "runtime-main.js.map": "/testimonials-slider/static/js/runtime-main.af307542.js.map",
+    "static/js/2.2e305eb1.chunk.js": "/testimonials-slider/static/js/2.2e305eb1.chunk.js",
+    "static/js/2.2e305eb1.chunk.js.map": "/testimonials-slider/static/js/2.2e305eb1.chunk.js.map",
+    "index.html": "/testimonials-slider/index.html",
+    "static/css/main.1f0fdfa0.chunk.css.map": "/testimonials-slider/static/css/main.1f0fdfa0.chunk.css.map",
+    "static/js/2.2e305eb1.chunk.js.LICENSE.txt": "/testimonials-slider/static/js/2.2e305eb1.chunk.js.LICENSE.txt",
+    "static/media/icon-next.0aa189db.svg": "/testimonials-slider/static/media/icon-next.0aa189db.svg",
+    "static/media/icon-prev.f72bba8e.svg": "/testimonials-slider/static/media/icon-prev.f72bba8e.svg",
+    "static/media/image-john.5253a557.jpg": "/testimonials-slider/static/media/image-john.5253a557.jpg",
+    "static/media/image-tanya.f54c0657.jpg": "/testimonials-slider/static/media/image-tanya.f54c0657.jpg",
+    "static/media/App.css": "/testimonials-slider/static/media/pattern-quotes.219bd182.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3b525fb.js",
-    "static/js/2.47b207d0.chunk.js",
-    "static/css/main.47eddc7c.chunk.css",
+    "static/js/runtime-main.af307542.js",
+    "static/js/2.2e305eb1.chunk.js",
+    "static/css/main.1f0fdfa0.chunk.css",
     "static/js/main.775b0781.chunk.js"
   ]
 }
